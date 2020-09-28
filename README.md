@@ -1,18 +1,22 @@
 # Web Development Bootcamp Phase 1
 
-Repository consist of the resources for Web Development Bootcamp Phase 1.
+Repository consist of the resources for Web Development Bootcamp Phase 1.We will be focusing on front-end development during this bootcamp.
 
-We will be focusing on front-end development during phase 1. 
+## Instructors :
 
- _Contents:_
+1. [Advaith U](https://github.com/advaith-unnikrishnan)
+2. [Kevin Jacob](https://github.com/kevinjacob2001)
+3. [Govind B Chandran](https://github.com/chandran-jr)
+
+## Contents:
  - Syllabus.md
  - Project 1
  - Project 2
  - Project 3
+ - Resources
  
  The project folder consist of starter files for your projects. (It will be updated once the bootcamp starts)
-Various resources for the bootcamp will be uploaded in the repository.
+ The resources folder consist of the code and other resources discussed during the bootcamp.
+ 
+ ``` LEARN | COLLABORATE | GROW ```
 
-## *The details will be updated soon*
-
-# *Stay Tuned!!*
